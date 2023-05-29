@@ -1,0 +1,61 @@
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Grafika\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Anja_grafika_pz2\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Grafika\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Grafika\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Grafika\Gotov\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Grafika\Gotov\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
